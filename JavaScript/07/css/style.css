@@ -1,3 +1,8 @@
 .hidden {
   display: none;
 }
+
+bgImg {
+  position: absolute;
+  margin: 0 auto;
+}
